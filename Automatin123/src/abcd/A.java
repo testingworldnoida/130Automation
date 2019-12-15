@@ -8,6 +8,7 @@ public class A {
 		if(a%2==0)
 		{
 			System.out.println("Even");
+			System.out.println("Done,,,w");
 		}
 		else
 		{
